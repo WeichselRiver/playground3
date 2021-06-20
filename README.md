@@ -11,3 +11,12 @@ https://pythonise.com/series/learning-flask/flask-uploading-files
 
 
 basis for download:
+
+https://pythonise.com/series/learning-flask/sending-files-with-flask
+
+
+ToDo:
+
+secure upload: 
+
+https://pythonise.com/series/learning-flask/flask-uploading-files#securing-file-uploads
